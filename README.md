@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arafat Islam</h1>
+<div align="center"> <img src="https://github.com/arafatsafin42069/arafatsafin42069/blob/main/hecker.gif"> </div>
+
 <h3 align="center">Machine learning and deep learning enthusiasist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsafin42069&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsafin42069" /> </p>
