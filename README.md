@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arafat Islam</h1>
 <div align="center"> <img src="https://github.com/arafatsafin42069/arafatsafin42069/blob/main/hecker.gif"> </div>
 
-<h3 align="center">Machine learning and deep learning enthusiasist</h3>
+<h3 align="center">Machine and deep learning enthusiasist</h3>
 
 
 
